@@ -5,6 +5,7 @@ body {
 	font-family: "Poppins";
 }
 body *{
+	transition: .3s;
 	font-family: "Poppins";
 }
 textarea:focus, input:focus{
